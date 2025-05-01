@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Secret_WebSite/static/css/main.0a35aa2c.css",
+    "main.js": "/Secret_WebSite/static/js/main.5bd12942.js",
+    "index.html": "/Secret_WebSite/index.html",
+    "main.0a35aa2c.css.map": "/Secret_WebSite/static/css/main.0a35aa2c.css.map",
+    "main.5bd12942.js.map": "/Secret_WebSite/static/js/main.5bd12942.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a35aa2c.css",
+    "static/js/main.5bd12942.js"
+  ]
+}
